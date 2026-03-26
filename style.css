@@ -126,6 +126,9 @@ img{
 .home{
     
 }
+li{
+    text-allign: left;
+}
 ul{
     text-allign: left;
 }
