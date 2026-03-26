@@ -81,7 +81,8 @@ section.about {
     margin: auto;
     padding: 50px 20px;
     text-align: center;
-    background-color: rgb(128,128,128);
+    background-color: rgb(213, 209, 209);
+    border-radius: 20px;
     & img{
          width:200px;
     }
