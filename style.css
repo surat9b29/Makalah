@@ -80,7 +80,7 @@ section.about {
     width: 50%;
     margin: auto;
     padding: 50px 20px;
-    padding-top: 50px;
+    padding-top: 600px;
     text-align: center;
     background-color: rgb(213, 209, 209);
     border-radius: 20px;
@@ -91,7 +91,7 @@ section.about {
 
 section.profile{
     height: 800px;
-    padding-top: 800px;
+    padding-top: 850px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
